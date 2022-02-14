@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Tan Soon Rong</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Tan Soon Rong or you can just call me Danny.
+        \n\nMy favorite food is Yakiniku, I love it so much!
+        \n\nThe meat is juicy and delicious, but it was little bit expensive.
+        \n\nHard to afford every week.
+        \n\nMy favorite game is <b>Fate Grand Order</b>.
+        \n\nThe character that I like in this game is call Toshaka Rin.
+        \n\nShe is the prototype for other character.
+        \n\nFor example, Space Ishtar is one of the character\n\n.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
